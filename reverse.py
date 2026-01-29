@@ -13,7 +13,7 @@ def isPalindrome(num):
     
     return num==reverse(num)
 print(reverse(123))
-print(isPalindrome(123))
+print(isPalindrome(1234))
 print(reverse(121))
 print(isPalindrome is done with (121))
 
