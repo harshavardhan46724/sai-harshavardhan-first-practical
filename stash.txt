@@ -1,0 +1,7 @@
+story 12
+x=5
+y=6
+z=x+y
+HI i am harsha
+i work with full time projects using git hub commands 
+
